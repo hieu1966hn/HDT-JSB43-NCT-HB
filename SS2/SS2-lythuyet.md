@@ -10,3 +10,8 @@ Mỗi một thẻ trong HTML đều có mang 1 thuộc tính mặc định: disp
 
 - Chiều rộng: width = 100% nội dung bên trong thẻ
 - Chiều cao: height = 100% nội dung bên trong thẻ
+
+Có 2 dạng danh sách thường dùng:
+
+1. Danh sách có thứ tự: ol
+2. Danh sách không có thứ tự: ul
