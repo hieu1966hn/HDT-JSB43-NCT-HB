@@ -13,3 +13,13 @@ div {
 #app {
   background-color: aquamarine;
 }
+
+
+.item {
+  color: black;
+  width: 100px;
+  height: 100px;
+  background-color: coral;
+  margin: 10px;
+  border-radius: 10px;
+}
