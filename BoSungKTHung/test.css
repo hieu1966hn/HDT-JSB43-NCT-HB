@@ -1,0 +1,15 @@
+h1 {
+  color: crimson;
+}
+
+
+p {
+  color: indianred;
+  background-color: aqua;
+}
+
+span {
+  color: darkviolet;
+  width: 100px;
+  height: 100px;
+}
