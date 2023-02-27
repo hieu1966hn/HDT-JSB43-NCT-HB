@@ -1,0 +1,30 @@
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  margin: 10px;
+}
+
+#itemid {
+  width: 100px;
+  height: 100px;
+  background-color: darksalmon;
+  margin: 10px;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+
+  /* thuộc tính chỉnh vị trí theo trục chính */
+  justify-content: center;
+
+
+  /* thuộc tính chỉnh vị trí theo trục phụ (phụ vuông góc với trục chính) */
+  align-items: center;
+
+
+  /*  Khi mà các người con quá nhiều và tràn hết ra hàng  */
+  flex-wrap: wrap;
+}
