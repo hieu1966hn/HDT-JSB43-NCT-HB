@@ -53,3 +53,15 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.members h2 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.box-members {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
