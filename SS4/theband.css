@@ -21,3 +21,17 @@
   color: #000;
   cursor: pointer;
 }
+
+
+.homepage {
+  width: 60vw;
+  margin: auto;
+}
+
+.img-box {
+  width: 100%;
+}
+
+.img {
+  width: 100%;
+}
