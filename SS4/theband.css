@@ -3,6 +3,8 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  border: none;
+  text-decoration: none;
 }
 
 
@@ -49,7 +51,7 @@
 .box-members .member {
   background-image: url(https://www.w3schools.com/w3images/bandmember.jpg);
   width: 200px;
-  height: 400px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -60,8 +62,53 @@
   margin-bottom: 10px;
 }
 
+
+
 .box-members {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+}
+
+
+#contact h2 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  letter-spacing: 5px;
+}
+
+#contact>p {
+  text-align: center;
+  margin: 20px;
+}
+
+#contact p i {
+  opacity: 0.4;
+}
+
+.form-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.miniform-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.miniform-box input {
+  width: 48%;
+}
+
+input {
+  border: 1px solid lightslategrey;
+  padding: 5px 10px;
+  margin: 2px;
 }
