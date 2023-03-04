@@ -9,8 +9,15 @@
 .navbar div {
   display: inline-block;
   color: #fff;
+  padding: 5px 10px;
 }
 
 .navbar {
   background-color: #000;
+}
+
+.navbar div:hover {
+  background-color: darkgrey;
+  color: #000;
+  cursor: pointer;
 }
