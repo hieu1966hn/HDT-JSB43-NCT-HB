@@ -1,0 +1,16 @@
+/* Style cho tất cả các thẻ */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+.navbar div {
+  display: inline-block;
+  color: #fff;
+}
+
+.navbar {
+  background-color: #000;
+}
