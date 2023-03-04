@@ -38,9 +38,18 @@
 
 .about h2 {
   margin-top: 30px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
 .about p {
   text-align: justify;
+}
+
+.box-members .member {
+  background-image: url(https://www.w3schools.com/w3images/bandmember.jpg);
+  width: 200px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
