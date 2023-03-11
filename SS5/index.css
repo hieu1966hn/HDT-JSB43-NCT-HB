@@ -1,0 +1,16 @@
+.relative {
+  width: 100px;
+  height: 100px;
+  background-color: crimson;
+
+  position: relative;
+  top: 100px;
+}
+
+
+.item1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(217, 156, 70);
+
+}
