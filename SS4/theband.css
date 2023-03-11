@@ -121,9 +121,25 @@ input {
   margin: auto;
 }
 
+.btn:hover {
+  color: black;
+  background-color: darkgray;
+  cursor: pointer;
+}
+
 
 .btn-box {
   display: flex;
   justify-content: center;
   margin: 20px 0px;
+}
+
+
+footer p {
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+  color: darkcyan;
 }
