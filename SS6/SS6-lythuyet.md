@@ -39,3 +39,6 @@ Buổi 6:
 * Fixed: Lấy màn hình máy tính làm mốc => edit khoảng cách của thẻ so với mốc => luôn hiển thị lên màn hình
 
 2. Giới thiệu về Javascript
+
+- Ứng dụng: Web (facebook, instagram, vnexpress, ), App (messenger, ..),...
+-
