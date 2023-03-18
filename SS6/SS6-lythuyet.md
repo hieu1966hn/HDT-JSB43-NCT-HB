@@ -36,6 +36,6 @@ Buổi 6:
 
 * Relative: Lấy chính thẻ có thuộc tính này làm mốc => chỉnh sửa khoảng cách
 * Absolute
-* Fixed:
+* Fixed: Lấy màn hình máy tính làm mốc => edit khoảng cách của thẻ so với mốc => luôn hiển thị lên màn hình
 
 2. Giới thiệu về Javascript
