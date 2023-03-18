@@ -31,6 +31,11 @@ Buổi 6:
 * Thuộc tính:
 
 - flex-direction: row/column/ row-reverse/ column-reverse
--
+
+- Position: vị trí
+
+* Relative: Lấy chính thẻ có thuộc tính này làm mốc => chỉnh sửa khoảng cách
+* Absolute
+* Fixed:
 
 2. Giới thiệu về Javascript
