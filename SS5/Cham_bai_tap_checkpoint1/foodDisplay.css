@@ -1,0 +1,38 @@
+.heading {
+    display:flex;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    margin-bottom:10px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+.container {
+    size:auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.column {
+    width:300px;
+    display:flex;
+    flex-direction: column;
+    margin:5px;
+}
+
+.column img {
+    height: 400px; 
+
+}
+
+.column p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+.column h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
