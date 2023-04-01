@@ -1,0 +1,18 @@
+/* Ép kiểu style cho trang web */
+* {
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+}
+
+.register-container {
+  height: 100vh;
+  background-image: url(https://wallpaper.dog/large/10723194.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: flex-end;
+}
