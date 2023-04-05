@@ -1,0 +1,50 @@
+/* Style box model */
+h1 {
+  color: black;
+
+  padding: 20px;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+
+
+.container {
+  height: 100vh;
+
+  display: flex;
+  /* mặc định */
+  flex-direction: row;
+
+  /* Căn chỉnh bố cục theo chiều trục chính */
+  justify-content: space-evenly;
+
+  /* Căn chỉnh bố cục theo chiều trục phụ (vuông góc với trục chính) */
+  align-items: center;
+
+}
+
+.container .item {
+  width: 100px;
+  height: 100px;
+  background-color: coral;
+  border-radius: 5px;
+
+  color: white;
+
+  /* Thực hành làm cho chữ bên trong thẻ div.item ra
+   giữa hàng ngang và hàng dọc của ô */
+}
+
+
+.form-box {
+  width: 600px;
+  margin: auto;
+}
+
+#register-form input {
+  padding: 15px 30px;
+  /* padding: trên phải dưới trái */
+  width: 100%;
+  margin-bottom: 20px;
+}
